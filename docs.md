@@ -59,3 +59,14 @@ jd-opensource/lapa-dataset: A large-scale dataset for face parsing (AAAI2020)
 
 如何看懂配置文件 — MMPose 1.2.0 文档
 [如何看懂配置文件 — MMPose 1.2.0 文档](https://mmpose.readthedocs.io/zh-cn/latest/user_guides/configs.html)
+
+
+
+训练：
+
+```
+conda activate openmmlab
+cd E:\openmmlab\MMPose_Tutorials\2023\0524\mmdetection
+python tools/train.py data/rtmdet_tiny_lapa.py
+```
+
