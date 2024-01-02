@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84488843-5b39-47e0-b063-7fa8480cf75c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/【E2】人脸目标检测-预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/【E2】人脸目标检测-预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmpose/outputs/C2_Video/webcam.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/mmpose/outputs/C2_Video/webcam.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/【D2】人脸目标检测-训练.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/【D2】人脸目标检测-训练.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/附-本地运行/.ipynb_checkpoints/【B1】三角板目标检测-下载config配置文件和模型权重文件-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/附-本地运行/.ipynb_checkpoints/【C2】摄像头实时预测-人脸关键点检测-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/附-本地运行/.ipynb_checkpoints/【C2】摄像头实时预测-人脸关键点检测-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/附-本地运行/【B1】三角板目标检测-下载config配置文件和模型权重文件.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/附-本地运行/【B2】摄像头实时预测-人脸目标检测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/附-本地运行/【B2】摄像头实时预测-人脸目标检测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/附-本地运行/【C2】摄像头实时预测-人脸关键点检测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/附-本地运行/【C2】摄像头实时预测-人脸关键点检测.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +32,19 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/openmmlab/MMPose_DMS/mmdetection",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/openmmlab/MMPose_Tutorials&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\openmmlab\MMPose_DMS\mmdetection" />
@@ -62,6 +62,10 @@
       <option name="presentableId" value="Default" />
       <updated>1703747850001</updated>
       <workItem from="1703747851226" duration="711000" />
+      <workItem from="1703814131594" duration="651000" />
+      <workItem from="1703827776118" duration="606000" />
+      <workItem from="1703858301342" duration="964000" />
+      <workItem from="1703904234844" duration="594000" />
     </task>
     <servers />
   </component>
